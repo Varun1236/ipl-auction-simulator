@@ -8,6 +8,7 @@ their strategic preferences.  All multipliers stack additively.
 |---------|-------|--------------|
 | Age >= 30 | +15% | Age |
 | Nationality == India | +10% | Nationality |
+| Role == All-Rounder | +10% | Role |
 
 ## MI — Young & Explosive
 | Trigger | Bonus | Source Column |
@@ -15,18 +16,22 @@ their strategic preferences.  All multipliers stack additively.
 | Age <= 25 | +15% | Age |
 | StrikeRate > 145 (Batsman/WK/AR only) | +10% | StrikeRate |
 | Runs >= 200 AND Age <= 23 (breakthrough batter) | +10% | Runs, Age |
+| Role == Bowler AND Age <= 26 | +10% | Role, Age |
 
 ## RR — Next-Gen Talent
 | Trigger | Bonus | Source Column |
 |---------|-------|--------------|
 | Age <= 23 | +20% | Age |
 | Runs >= 200 AND Age <= 23 (young breakouts) | +10% | Runs, Age |
+| Age 24-26 | +10% | Age |
 
 ## KKR — Spin Power
 | Trigger | Bonus | Source Column |
 |---------|-------|--------------|
-| Role == Bowler AND Wickets >= 5 AND Economy <= 8.5 (spin proxy) | +15% | Role, Wickets, Economy |
 | Mystery spinner bonus skipped (no bowling-style data) | — | — |
+| Role == Bowler | +10% | Role |
+| Wickets >= 10 | +10% | Wickets |
+| Economy <= 8.5 | +5% | Economy |
 
 ## RCB — Bash Brothers
 | Trigger | Bonus | Source Column |
@@ -57,6 +62,7 @@ their strategic preferences.  All multipliers stack additively.
 |---------|-------|--------------|
 | Age <= 28 | +10% | Age |
 | Age <= 25 | +10% | Age |
+| Nationality == India | +5% | Nationality |
 
 ## SRH — Aggressive Batters
 | Trigger | Bonus | Source Column |

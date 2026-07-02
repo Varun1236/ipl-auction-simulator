@@ -1,0 +1,187 @@
+Player,Team,Age,Nationality,Runs,BattingAverage,StrikeRate,100s,50s,Wickets,BowlingAverage,Economy,Role
+A Badoni (LSG),LSG,25,India,329,32.9,148.19,0,2,2,6.5,7.8,Batsman
+A Kamboj (CSK),CSK,24,India,14,7,116.66,0,0,8,21.5,8,Bowler
+A Madhwal (RR),RR,31,India,4,-,44.44,0,0,4,41.5,11.06,Bowler
+A Manohar (SRH),SRH,30,India,61,12.2,100,0,0,0,0,0,Batsman
+A Mhatre (CSK),CSK,17,India,240,34.28,188.97,0,1,0,0,0,Batsman
+A Raghuvanshi (KKR),KKR,20,India,300,33.33,139.53,0,1,0,0,0,Batsman
+A Taide (SRH),SRH,24,Sri Lanka,13,13,144.44,0,0,0,0,0,Batsman
+A Zampa (SRH),SRH,33,Australia,0,0,0,0,0,2,47,11.75,Bowler
+AD Russell (KKR),KKR,36,India,167,18.55,163.72,0,1,8,27.12,11.94,All-Rounder
+AK Markram (LSG),LSG,30,South Africa,445,34.23,148.82,0,5,4,25.5,9.27,Batsman
+AM Rahane (KKR),KKR,36,India,390,35.45,147.72,0,3,0,0,0,Batsman
+AR Patel (DC),DC,31,India,263,26.3,157.48,0,0,5,57.6,8.47,All-Rounder
+AR Sharma (DC),DC,26,South Africa,204,29.14,160.62,0,1,0,0,0,Batsman
+AS Roy (KKR),KKR,26,India,0,0,0,0,0,1,27,6.75,Bowler
+AU Verma (SRH),SRH,23,India,236,26.22,166.19,0,1,0,0,0,Batsman
+Abdul Samad (LSG),LSG,23,Australia,164,20.5,176.34,0,0,0,0,0,Batsman
+Abhishek Sharma (SRH),SRH,24,India,439,33.76,193.39,1,2,0,0,0,Batsman
+Abishek Porel (DC),DC,22,India,301,25.08,146.82,0,1,0,0,0,Wicketkeeper
+Akash Deep (LSG),LSG,28,India,6,6,300,0,0,3,76.33,12.05,Bowler
+Akash Singh (LSG),LSG,22,India,0,0,0,0,0,4,24.75,8.86,Bowler
+Arshad Khan (GT),GT,27,India,23,11.5,121.05,0,0,6,36.16,10.33,Bowler
+Arshdeep Singh (PBKS),PBKS,26,India,2,2,33.33,0,0,21,24.66,8.88,Bowler
+Ashwani Kumar (MI),MI,23,India,0,0,0,0,0,11,21.09,11.31,Bowler
+Avesh Khan (LSG),LSG,28,South Africa,21,21,175,0,0,13,37.46,10.28,Bowler
+Azmatullah Omarzai (PBKS),PBKS,25,Australia,57,14.25,139.02,0,0,8,34.87,10.33,Bowler
+B Kumar (RCB),RCB,35,Australia,14,4.66,56,0,0,17,28.41,9.28,Bowler
+B Sai Sudharsan (GT),GT,23,India,759,54.21,156.17,1,6,0,0,0,Batsman
+BKG Mendis (GT),GT,30,South Africa,20,20,200,0,0,0,0,0,Batsman
+C Bosch (MI),MI,30,India,47,23.5,146.87,0,0,1,55,7.85,Bowler
+CV Varun (KKR),KKR,33,India,1,-,100,0,0,17,22.52,7.66,Bowler
+D Brevis (CSK),CSK,21,South Africa,225,37.5,180,0,2,0,0,0,Batsman
+D Padikkal (RCB),RCB,24,India,247,27.44,150.6,0,2,0,0,0,Batsman
+DA Miller (LSG),LSG,35,South Africa,153,30.6,127.5,0,0,0,0,0,Wicketkeeper
+DC Jurel (RR),RR,24,India,333,37,156.33,0,2,0,0,0,Wicketkeeper
+DJ Hooda (CSK),CSK,29,Sri Lanka,31,6.2,75.6,0,0,0,0,0,Batsman
+DL Chahar (MI),MI,32,India,37,37,148,0,0,11,34.18,9.17,Bowler
+DP Conway (CSK),CSK,33,South Africa,156,26,131.09,0,2,0,0,0,Wicketkeeper
+DS Rathi (LSG),LSG,25,India,0,0,0,0,0,14,30.64,8.25,Bowler
+E Malinga (SRH),SRH,24,Sri Lanka,0,0,0,0,0,13,18.3,8.92,Bowler
+F du Plessis (DC),DC,40,India,202,22.44,123.92,0,2,0,0,0,Batsman
+Fazalhaq Farooqi (RR),RR,24,Australia,2,-,100,0,0,0,0,0,Batsman
+G Coetzee (GT),GT,24,Australia,17,8.5,154.54,0,0,2,65.5,10.91,Bowler
+GJ Maxwell (PBKS),PBKS,36,India,48,8,97.95,0,0,4,27.5,8.46,Bowler
+H Klaasen (SRH),SRH,33,South Africa,487,44.27,172.69,1,1,0,0,0,Wicketkeeper
+HH Pandya (MI),MI,31,India,224,24.88,163.5,0,0,14,24.42,9.77,All-Rounder
+HS Dubey (SRH),SRH,22,India,0,0,0,0,0,5,19.6,9.8,Bowler
+HV Patel (SRH),SRH,34,England,21,10.5,80.76,0,0,16,26.87,9.8,Bowler
+Harpreet Brar (PBKS),PBKS,29,India,11,11,84.61,0,0,10,19,8.63,Bowler
+Harshit Rana (KKR),KKR,23,South Africa,57,14.25,107.54,0,0,15,29.86,10.18,Bowler
+I Sharma (GT),GT,36,India,0,0,0,0,0,4,51.25,11.18,Bowler
+Ishan Kishan (SRH),SRH,26,India,354,35.4,152.58,1,1,0,0,0,Wicketkeeper
+J Fraser-McGurk (DC),DC,22,India,55,9.16,105.76,0,0,0,0,0,Batsman
+J Overton (CSK),CSK,30,India,15,-,214.28,0,0,0,0,0,Batsman
+JC Archer (RR),RR,30,Australia,63,10.5,126,0,0,11,39.18,9.47,Bowler
+JC Buttler (GT),GT,34,England,538,59.77,163.03,0,5,0,0,0,Wicketkeeper
+JD Unadkat (SRH),SRH,33,India,0,0,0,0,0,11,15.9,7.34,Bowler
+JG Bethell (RCB),RCB,21,India,67,33.5,171.79,0,1,0,0,0,Batsman
+JJ Bumrah (MI),MI,31,India,0,0,0,0,0,18,17.55,6.67,Bowler
+JM Bairstow (MI),MI,35,West Indies,85,42.5,184.78,0,0,0,0,0,Wicketkeeper
+JM Sharma (RCB),RCB,31,India,261,37.28,176.35,0,1,0,0,0,Wicketkeeper
+JP Inglis (PBKS),PBKS,30,Australia,278,30.88,162.57,0,1,0,0,0,Wicketkeeper
+JR Hazlewood (RCB),RCB,34,Australia,0,0,0,0,0,22,17.54,8.77,Bowler
+K Kartikeya (RR),RR,27,Afghanistan,3,1.5,60,0,0,2,39,9.75,Bowler
+K Khejroliya (GT),GT,33,India,0,0,0,0,0,1,29,9.66,Bowler
+K Nitish Kumar Reddy (SRH),SRH,21,India,182,22.75,118.95,0,0,2,23.5,9.4,Batsman
+K Rabada (GT),GT,29,India,9,9,112.5,0,0,2,81,11.57,Bowler
+KA Jamieson (PBKS),PBKS,30,New Zealand,0,0,0,0,0,5,29.4,9.8,Bowler
+KH Pandya (RCB),RCB,34,India,109,18.16,126.74,0,1,17,22.29,8.23,All-Rounder
+KK Ahmed (CSK),CSK,27,India,0,0,0,0,0,15,29.8,9.57,Bowler
+KK Nair (DC),DC,33,India,198,24.75,172.17,0,1,0,0,0,Batsman
+KL Rahul (DC),DC,32,India,539,53.9,149.72,1,3,0,0,0,Wicketkeeper
+KT Maphaka (RR),RR,18,India,8,-,400,0,0,1,54,10.8,Bowler
+KV Sharma (MI),MI,37,India,1,-,100,0,0,7,18.28,8.53,Bowler
+Kuldeep Yadav (DC),DC,30,India,18,6,112.5,0,0,15,24.06,7.07,Bowler
+L Ngidi (RCB),RCB,29,South Africa,0,0,0,0,0,4,20.25,10.12,Bowler
+LH Ferguson (PBKS),PBKS,33,Australia,4,-,400,0,0,5,20.8,9.17,Bowler
+LS Livingstone (RCB),RCB,31,Australia,112,16,133.33,0,1,2,38,8.44,Batsman
+M Jansen (PBKS),PBKS,24,India,75,18.75,119.04,0,0,16,27.12,9.2,Bowler
+M Pathirana (CSK),CSK,22,Sri Lanka,0,0,0,0,0,13,32.61,10.13,Bowler
+M Prasidh Krishna (GT),GT,29,India,0,0,0,0,0,25,19.52,8.27,Bowler
+M Shahrukh Khan (GT),GT,29,West Indies,179,29.83,179,0,1,0,0,0,Batsman
+M Siddharth (LSG),LSG,26,India,0,0,0,0,0,2,33.5,9.57,Bowler
+M Theekshana (RR),RR,24,South Africa,10,5,37.03,0,0,11,37.27,9.76,Bowler
+M Tiwari (DC),DC,21,India,3,3,75,0,0,0,0,0,Batsman
+MA Agarwal (RCB),RCB,34,South Africa,95,31.66,148.43,0,0,0,0,0,Batsman
+MA Starc (DC),DC,35,India,6,3,60,0,0,14,26.14,10.16,Bowler
+MJ Santner (MI),MI,33,Afghanistan,40,20,121.21,0,0,10,31.3,7.92,Bowler
+MK Pandey (KKR),KKR,35,Afghanistan,92,46,141.53,0,0,0,0,0,Batsman
+MM Ali (KKR),KKR,37,New Zealand,5,2.5,35.71,0,0,6,22.66,8.5,Bowler
+MM Sharma (DC),DC,36,India,0,0,0,0,0,2,128.5,10.28,Bowler
+MP Breetzke (LSG),LSG,26,India,14,14,116.66,0,0,0,0,0,Batsman
+MP Stoinis (PBKS),PBKS,35,New Zealand,160,26.66,186.04,0,0,0,0,0,Batsman
+MP Yadav (LSG),LSG,22,India,0,0,0,0,0,2,50,12.5,Bowler
+MR Marsh (LSG),LSG,33,Australia,627,48.23,163.7,1,6,0,0,0,Batsman
+MS Dhoni (CSK),CSK,43,New Zealand,196,24.5,135.17,0,0,0,0,0,Wicketkeeper
+Mohammed Shami (SRH),SRH,34,South Africa,10,10,100,0,0,6,56.16,11.23,Bowler
+Mohammed Siraj (GT),GT,31,India,3,-,75,0,0,16,32.93,9.24,Bowler
+Mukesh Choudhary (CSK),CSK,28,India,0,0,0,0,0,1,71,11.83,Bowler
+Mukesh Kumar (DC),DC,31,India,0,0,0,0,0,12,34,10.32,Bowler
+Mustafizur Rahman (DC),DC,29,Bangladesh,0,0,0,0,0,4,21.75,7.9,Bowler
+N Pooran (LSG),LSG,29,West Indies,524,43.66,196.25,0,5,0,0,0,Wicketkeeper
+N Rana (RR),RR,31,India,217,21.7,161.94,0,2,0,0,0,Batsman
+N Thushara (RCB),RCB,30,Sri Lanka,0,0,0,0,0,1,26,6.5,Bowler
+N Wadhera (PBKS),PBKS,24,India,369,30.75,145.84,0,2,0,0,0,Batsman
+NT Ellis (CSK),CSK,30,Australia,0,0,0,0,0,1,38,9.5,Bowler
+NT Tilak Varma (MI),MI,22,India,343,31.18,138.3,0,2,0,0,0,Batsman
+Naman Dhir (MI),MI,25,India,252,31.5,182.6,0,0,0,0,0,Batsman
+Noor Ahmad (CSK),CSK,20,West Indies,7,1.75,41.17,0,0,24,17,8.16,Bowler
+P Arya (PBKS),PBKS,24,India,475,27.94,179.24,1,2,0,0,0,Batsman
+P Dubey (PBKS),PBKS,31,India,0,0,0,0,0,1,20,10,Bowler
+PD Salt (RCB),RCB,28,England,403,33.58,175.98,0,4,0,0,0,Wicketkeeper
+PHKD Mendis (SRH),SRH,26,India,92,30.66,133.33,0,0,2,30,8.57,Bowler
+PJ Cummins (SRH),SRH,32,England,97,24.25,167.24,0,0,16,28.12,9.06,Bowler
+PVD Chameera (DC),DC,33,Sri Lanka,10,-,71.42,0,0,4,42.75,11.4,Bowler
+PW Hasaranga (RR),RR,27,Afghanistan,9,1.8,60,0,0,11,33.72,9.04,Bowler
+PWA Mulder (SRH),SRH,27,India,9,9,81.81,0,0,0,0,0,Batsman
+Prabhsimran Singh (PBKS),PBKS,24,India,549,32.29,160.52,0,4,0,0,0,Batsman
+Prince Yadav (LSG),LSG,23,Afghanistan,5,-,50,0,0,3,75,9.85,Bowler
+Q de Kock (KKR),KKR,32,India,152,21.71,129.91,0,1,0,0,0,Wicketkeeper
+R Ashwin (CSK),CSK,38,India,33,8.25,110,0,0,7,40.42,9.12,Bowler
+R Minz (MI),MI,22,India,6,3,40,0,0,0,0,0,Batsman
+R Parag (RR),RR,23,India,393,32.75,166.52,0,1,3,56.66,8.5,Batsman
+R Powell (KKR),KKR,31,India,5,5,100,0,0,0,0,0,Batsman
+R Ravindra (CSK),CSK,25,Australia,191,27.28,128.18,0,1,0,0,0,Batsman
+R Sai Kishore (GT),GT,28,India,5,1.66,50,0,0,19,20.68,9.24,Bowler
+R Shepherd (RCB),RCB,30,India,70,35,291.66,0,1,6,25.16,10.78,Bowler
+R Tewatia (GT),GT,31,Sri Lanka,99,12.37,167.79,0,0,0,0,0,Batsman
+RA Bawa (MI),MI,22,India,8,-,200,0,0,0,0,0,Batsman
+RA Jadeja (CSK),CSK,36,India,301,33.44,135.58,0,2,10,32.4,8.56,All-Rounder
+RA Tripathi (CSK),CSK,34,Afghanistan,55,11,96.49,0,0,0,0,0,Batsman
+RD Gaikwad (CSK),CSK,28,England,122,24.4,150.61,0,2,0,0,0,Batsman
+RD Rickelton (MI),MI,28,South Africa,388,29.84,150.97,0,3,0,0,0,Wicketkeeper
+RG Sharma (MI),MI,37,India,418,29.85,149.28,0,4,0,0,0,Batsman
+RJ Gleeson (MI),MI,37,England,0,0,0,0,0,1,39,11.14,Bowler
+RK Singh (KKR),KKR,27,India,206,29.42,153.73,0,0,0,0,0,Batsman
+RM Patidar (RCB),RCB,31,India,312,24,143.77,0,2,0,0,0,Batsman
+RR Pant (LSG),LSG,27,India,269,24.45,133.16,1,1,0,0,0,Wicketkeeper
+Rahmanullah Gurbaz (KKR),KKR,23,England,74,18.5,139.62,0,0,0,0,0,Wicketkeeper
+Ramandeep Singh (KKR),KKR,27,India,47,9.4,134.28,0,0,0,0,0,Batsman
+Rashid Khan (GT),GT,26,India,40,8,142.85,0,0,9,57.11,9.34,Bowler
+Rasikh Salam (RCB),RCB,24,India,0,0,0,0,0,1,70,11.66,Bowler
+Ravi Bishnoi (LSG),LSG,24,Sri Lanka,13,6.5,81.25,0,0,9,44.55,10.83,Bowler
+S Dube (CSK),CSK,31,India,357,32.45,132.22,0,1,0,0,0,Batsman
+SA Yadav (MI),MI,34,India,717,65.18,167.91,0,5,0,0,0,Batsman
+SB Dubey (RR),RR,30,India,106,26.5,160.6,0,0,0,0,0,Batsman
+SE Rutherford (GT),GT,26,West Indies,291,32.33,157.29,0,0,0,0,0,Batsman
+SH Johnson (KKR),KKR,29,India,2,-,50,0,0,1,133,11.73,Bowler
+SK Rasheed (CSK),CSK,20,England,71,14.2,112.69,0,0,0,0,0,Batsman
+SM Curran (CSK),CSK,26,India,114,22.8,135.71,0,1,1,133,11.08,Batsman
+SN Thakur (LSG),LSG,33,India,18,6,150,0,0,13,28.84,11.02,Bowler
+SO Hetmyer (RR),RR,28,West Indies,239,21.72,145.73,0,1,0,0,0,Batsman
+SP Narine (KKR),KKR,36,West Indies,246,22.36,170.83,0,0,12,29.25,7.8,All-Rounder
+SS Iyer (PBKS),PBKS,30,India,604,50.33,175.07,0,6,0,0,0,Batsman
+SV Samson (RR),RR,30,India,285,35.62,140.39,0,1,0,0,0,Wicketkeeper
+Sameer Rizvi (DC),DC,21,England,121,40.33,153.16,0,1,0,0,0,Batsman
+Sandeep Sharma (RR),RR,31,New Zealand,6,-,120,0,0,9,40.11,9.89,Bowler
+Sediqullah Atal (DC),DC,23,India,22,22,137.5,0,0,0,0,0,Batsman
+Shahbaz Ahmed (LSG),LSG,30,India,9,9,112.5,0,0,0,0,0,Batsman
+Shashank Singh (PBKS),PBKS,33,India,350,50,153.5,0,3,0,0,0,Batsman
+Shubman Gill (GT),GT,25,India,650,50,155.87,0,6,0,0,0,Batsman
+Simarjeet Singh (SRH),SRH,27,New Zealand,3,1.5,42.85,0,0,2,70.5,14.1,Bowler
+Suryansh Shedge (PBKS),PBKS,22,India,7,2.33,63.63,0,0,0,0,0,Batsman
+Suyash Sharma (RCB),RCB,21,India,0,0,0,0,0,8,55.25,8.84,Bowler
+T Stubbs (DC),DC,24,South Africa,300,50,150.75,0,0,0,0,0,Batsman
+TA Boult (MI),MI,35,India,2,2,66.66,0,0,22,23.5,8.96,Bowler
+TH David (RCB),RCB,29,India,187,62.33,185.14,0,1,0,0,0,Batsman
+TM Head (SRH),SRH,31,Australia,374,31.16,162.6,0,3,0,0,0,Batsman
+TU Deshpande (RR),RR,29,Australia,7,7,87.5,0,0,9,37.77,10.62,Bowler
+UM Patel (CSK),CSK,26,Afghanistan,68,22.66,212.5,0,0,0,0,0,Batsman
+V Kohli (RCB),RCB,36,India,657,54.75,144.71,0,8,0,0,0,Batsman
+V Nigam (DC),DC,20,India,142,20.28,179.74,0,0,11,32.36,9.12,All-Rounder
+V Puthur (MI),MI,24,India,0,0,0,0,0,6,18.16,9.08,Bowler
+V Shankar (CSK),CSK,34,India,118,39.33,129.67,0,1,0,0,0,Batsman
+V Sooryavanshi (RR),RR,14,India,252,36,206.55,1,1,0,0,0,Batsman
+V Vyshak (PBKS),PBKS,28,India,0,0,0,0,0,4,45.25,10.64,Bowler
+VG Arora (KKR),KKR,27,India,0,0,0,0,0,17,25.29,10.11,Bowler
+VR Iyer (KKR),KKR,30,India,142,20.28,139.21,0,1,0,0,0,Batsman
+W O'Rourke (LSG),LSG,23,New Zealand,0,0,0,0,0,6,22,12.77,Bowler
+WG Jacks (MI),MI,26,England,233,23.3,135.46,0,1,6,20,8.57,All-Rounder
+Washington Sundar (GT),GT,25,India,133,26.6,166.25,0,0,2,55.5,10.24,Batsman
+XC Bartlett (PBKS),PBKS,26,South Africa,11,11,73.33,0,0,2,48,9.6,Bowler
+YBK Jaiswal (RR),RR,23,India,559,43,159.71,0,6,0,0,0,Batsman
+YS Chahal (PBKS),PBKS,34,India,0,0,0,0,0,16,26.87,9.55,Bowler
+Yash Dayal (RCB),RCB,27,India,4,2,50,0,0,13,36.15,9.59,Bowler
+Yudhvir Singh (RR),RR,27,India,0,0,0,0,0,4,32.75,11.9,Bowler
+Zeeshan Ansari (SRH),SRH,25,India,0,0,0,0,0,6,55.5,9.84,Bowler

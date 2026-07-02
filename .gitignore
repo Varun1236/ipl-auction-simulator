@@ -1,0 +1,7 @@
+.DS_Store
+
+data/master_players_backup.csv
+data/master_players_backup2.csv
+
+__pycache__/
+*.pyc
